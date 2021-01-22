@@ -1,3 +1,6 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+</style>
 <aside class="main-header">
   <header class="module">
     <h1><a href="/">{{ site.title }}</a></h1>
@@ -7,16 +10,15 @@
   </div>
   <nav class="module color4">
     <a href="/">на главную</a>
+	<a href="{{ "/" | prepend: site.baseurl }}">к списку постов</a>
 	<a href="{{ "/about" | prepend: site.baseurl }}">о курсе</a>
-    <a href="{{ "/contact" | prepend: site.baseurl }}">об авторе</a>
-  </nav>
-  <nav class="module color3">
-	<a href="{{ "/problems" | prepend: site.baseurl }}">задачи</a>
+    <a href="{{ "/problems" | prepend: site.baseurl }}">задачи</a>
     <a href="{{ "/recordings" | prepend: site.baseurl }}">видеозаписи</a>
+	<a href="{{ "/contact" | prepend: site.baseurl }}">об авторе</a>
   </nav>
-  <div class="module color5">
+  <div class="module color3">
 <!--     github/{{ site.github }}
-    <br>twitter/{{ site.twitter }} -->
-    <br>{{ site.email }} 
+    <br>twitter/{{ site.twitter }} 
+    <br>{{ site.email }} -->
   </div>
 </aside>
