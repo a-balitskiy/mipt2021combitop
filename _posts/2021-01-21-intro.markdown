@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Введение"
+title:  "О курсе"
 date:   2021-01-21
 categories: intro
 ---
