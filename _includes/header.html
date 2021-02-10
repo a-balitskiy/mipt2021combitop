@@ -1,20 +1,21 @@
 <aside class="main-header">
   <header class="module">
-    <h1><a href="/">{{ site.title }}</a></h1>
+    <h1><a href="{{ "/" | prepend: site.baseurl }}">{{ site.title }}</a></h1>
   </header>
   <div class="module color2">
     {{ site.description }}
+	<a href="https://mit.zoom.us/j/99296267974">[zoom.us/j/99296267974]</a>
   </div>
   <nav class="module color4">
-    <a href="/">на главную</a>
-	<a href="{{ "/" | prepend: site.baseurl }}">к списку постов</a>
-	<a href="{{ "/intro" | prepend: site.baseurl }}">о курсе</a>
+	<a href="{{ "/" | prepend: site.baseurl }}">главная</a>
     <a href="{{ "/problems" | prepend: site.baseurl }}">задачи</a>
     <a href="{{ "/recordings" | prepend: site.baseurl }}">видеозаписи</a>
+	<a href="{{ "/intro" | prepend: site.baseurl }}">о курсе</a>
 	<a href="{{ "/about" | prepend: site.baseurl }}">об авторе</a>
+	<!-- <a href="/">в корень сайта</a> -->
   </nav>
   <div class="module color3">
-  Автор является аспирантом Массачусетского технологического института и может рассматриваться de facto правительством России как "иностранный агент" в смысле поправок к "закону об иностранных агентах", принятых 21.11.2019. Автору приятно думать, что это ставит его в один ряд с замечательными правозащитниками, художниками и журналистами!
+  <font size="-1">Автор является аспирантом Массачусетского технологического института и может рассматриваться de facto правительством России как "иностранный агент" в смысле поправок к "закону об иностранных агентах", принятых 21.11.2019. Автору приятно думать, что это ставит его в один ряд с замечательными правозащитниками, художниками и журналистами!</font>
 <!--     github/{{ site.github }}
     <br>twitter/{{ site.twitter }} 
     <br>{{ site.email }} -->
