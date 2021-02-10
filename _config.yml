@@ -3,9 +3,9 @@ title: Комбитопология
 email: aleksei.balitskii@phystech.edu
 #destination: C:/GitHub/mipt2021combitop
 description: >- # this means to ignore newlines until "baseurl:"
-  Первая лекция: лемма Шпернера, 12 фев, [зум-ссылка]
+  Первая лекция: лемма Шпернера, 19 фев, [зум-ссылка](https://mit.zoom.us/j/99296267974)
 baseurl: "/mipt2021combitop"
-#url:          "http://yourdomain.com" # the base hostname & protocol for your site
+url:          "https://balit.ski" # the base hostname & protocol for your site
 permalink:    /:title
 #github:       "yourusername"
 #twitter:      "yourusername"
