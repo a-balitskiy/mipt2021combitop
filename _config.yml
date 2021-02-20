@@ -19,7 +19,6 @@ markdown:     kramdown
 sass:
     style: :compressed  
 future: false
-ink_watch: littlefoot
-asset_pipeline:
-  compress_js: false
-  compress_css: false 
+#asset_pipeline:
+#  compress_js: false
+#  compress_css: false 
