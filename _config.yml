@@ -15,6 +15,7 @@ permalink:    /:title
 # Build settings
 gems:
   - octopress-littlefoot
+  - jekyll-assets
 markdown:     kramdown
 sass:
     style: :compressed  
