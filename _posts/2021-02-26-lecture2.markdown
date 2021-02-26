@@ -2,7 +2,7 @@
 layout: post
 title:  "Второй взгляд: игра в гекс и лебеговы покрытия"
 ref: lecture2
-date:   2021-02-26
+date:   2021-02-27
 categories: lecture
 ---
 
