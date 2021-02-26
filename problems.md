@@ -3,4 +3,5 @@ layout: page
 title: "Задачи"
 permalink: /problems
 ---
-Здесь появятся задачи.
+
+[Листочек вокруг леммы Шпернера]({{site.baseurl}}/files/sperner_1.pdf)
