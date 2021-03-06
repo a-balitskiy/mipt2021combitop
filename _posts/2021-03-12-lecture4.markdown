@@ -68,7 +68,7 @@ A(s,t) = \frac{(-x_1(s)+x_2(t), y_1(s) -y_2(t) )}{\max (\|x(s)-x_2(t)\|, \|y_1(s
 
 ### ---Ссылки---
 * L.E.J. Brouwer, [Über abbildung von mannigfaltigkeiten](http://www.digizeitschriften.de/dms/img/?PID=PPN235181684_0071&physid=phys104). _Mathematische Annalen_ (1912).
-* [Пост Терри Тао про инвариантность размерности](https://terrytao.wordpress.com/2011/06/13/brouwers-fixed-point-and-invariance-of-domain-theorems-and-hilberts-fifth-problem/#more-4937)
+* [Пост Терри Тао про инвариантность размерности и пятую проблему Гильберта](https://terrytao.wordpress.com/2011/06/13/brouwers-fixed-point-and-invariance-of-domain-theorems-and-hilberts-fifth-problem/#more-4937)
 <ol>
   <li id="fn:1">
     <p>
