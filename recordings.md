@@ -10,4 +10,6 @@ permalink: /recordings
 
 3. ККМ и лебегова размерность --- [видео](https://mit.zoom.us/rec/share/MW23A8kP4e0dMpSM0N_bcidORHhcKvgKy044KD0p6DNLaZvpvs0PyVj3BgRI0Ow8.QnIZfVqDx5vyZNNY), [доска]({{site.baseurl}}/whiteboard/lec3.png).
 
-4. Теорема Брауэра о пеподвижной точке.
+4. Теорема Брауэра о неподвижной точке.
+
+5. Причёсывание ежа и степень отображения.
