@@ -3,7 +3,7 @@ title: Комбитопология
 email: aleksei.balitskii@phystech.edu
 #destination: C:/GitHub/mipt2021combitop
 description: >- # this means to ignore newlines until "baseurl:"
-  Четвёртая лекция: теорема Брауэра, 12 мар, 18:40
+  Пятая лекция: степень отображения, 19 мар, 18:40
 baseurl: "/mipt2021combitop"
 url:          "https://balit.ski" # the base hostname & protocol for your site
 permalink:    /:title
