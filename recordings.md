@@ -12,6 +12,10 @@ permalink: /recordings
 
 4. Теорема Брауэра о неподвижной точке --- [видео](https://mit.zoom.us/rec/share/pmariCPzVGMzn5aRtYKPi3QbTsi5VfhjkKjSNZgcVWlB9-JLc5-aUyr8lRM-Rv5d.Kk27JUuF9K8EzruF), [доска]({{site.baseurl}}/whiteboard/lec4.png).
 
-5. Причёсывание ежа и степень отображения.
+5. Причёсывание ежа и степень отображения --- [видео](https://mit.zoom.us/rec/share/0QejAHoWPq-vVXNT6hDddd8TUgmZNywGkH5ADoAKbGdupc-ZBuK49Xje2-uq0umc.Cc5UcNYuBJg6d8l6), [доска]({{site.baseurl}}/whiteboard/lec5.png).
 
-[comment]: # 6. Нерв покрытия и поперечник множества.
+6. Степень отображения, продолжение.
+
+[comment]: # 7. Нерв покрытия и поперечник множества.
+
+[comment]: # 

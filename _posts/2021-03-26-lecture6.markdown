@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Шестой взгляд: степень отображения"
+ref: lecture5
+date:   2021-03-26
+categories: lecture
+---
+
+## ---12---
+
+
+
+### ---Ссылки---
+* H. Hopf, [Abbildungsklassen n-dimensionaler Mannigfaltigkeiten](https://www.maths.ed.ac.uk/~v1ranick/papers/hopf5.pdf). _Mathematische Annalen_ (1927).
+
+[comment]: # [^1]: Для [бильярдно-симплектических целей](https://academic.oup.com/imrn/article/2020/7/1957/4976243).
