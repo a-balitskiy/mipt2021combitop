@@ -12,10 +12,10 @@ permalink: /recordings
 
 4. Теорема Брауэра о неподвижной точке --- [видео](https://mit.zoom.us/rec/share/pmariCPzVGMzn5aRtYKPi3QbTsi5VfhjkKjSNZgcVWlB9-JLc5-aUyr8lRM-Rv5d.Kk27JUuF9K8EzruF), [доска]({{site.baseurl}}/whiteboard/lec4.png).
 
-5. Причёсывание ежа и степень отображения --- [видео](https://mit.zoom.us/rec/share/0QejAHoWPq-vVXNT6hDddd8TUgmZNywGkH5ADoAKbGdupc-ZBuK49Xje2-uq0umc.Cc5UcNYuBJg6d8l6), [доска]({{site.baseurl}}/whiteboard/lec5.png).
+5. Причёсывание ежа и определение степени отображения --- [видео](https://mit.zoom.us/rec/share/0QejAHoWPq-vVXNT6hDddd8TUgmZNywGkH5ADoAKbGdupc-ZBuK49Xje2-uq0umc.Cc5UcNYuBJg6d8l6), [доска]({{site.baseurl}}/whiteboard/lec5.png).
 
-6. Степень отображения, продолжение.
+6. Свойства степени отображения --- [видео](https://mit.zoom.us/rec/share/eX2vymtTCTRrbBt9jtPEbiNR_L7rhOGCeaRkcWW3P1m5fPTKy9coZC5WFKT14bF5.3UtTMJ8DPrL4FAJF), [доска]({{site.baseurl}}/whiteboard/lec6.png).
 
-[comment]: # 7. Нерв покрытия и поперечник множества.
+7. Теорема Шпильрайна.
 
-[comment]: # 
+[comment]: # Поперечник множества
