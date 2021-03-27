@@ -14,7 +14,7 @@ layout: default
   </article>
 {% endfor %}
 
-{% for post in site.posts offset:1 limit:4 %}
+{% for post in site.posts offset:1 limit:15 %}
   <article class="module color3">
     <h2>
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
