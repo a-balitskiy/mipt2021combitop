@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Шестой взгляд: степень отображения"
-ref: lecture5
+ref: lecture6
 date:   2021-03-26
 categories: lecture
 ---

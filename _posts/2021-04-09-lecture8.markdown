@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Хаусдорфова размерность и её связь с топологической"
+ref: lecture8
+date:   2021-04-09
+categories: lecture
+---
+
+## ---18---
+
+
+## ---19---
+
+
+
+
+### ---Ссылки---
+* E. Szpilrajn, [La dimension et la mesure](http://matwbn.icm.edu.pl/ksiazki/fm/fm28/fm28111.pdf) (1937). _Fundameta Mathematicae_ (1937).
+* Набросок доказательства, расшифрованный в этом посте подробно, взят из [статьи Гута](https://dspace.mit.edu/bitstream/handle/1721.1/110192/Guth_Volumes%20of%20balls.pdf), который, по-видимому, вдохновлялся идеями Громова.
+
+[^1]: 
+
+[^2]: 
+
+[comment]: # [^1]: Для [бильярдно-симплектических целей](https://academic.oup.com/imrn/article/2020/7/1957/4976243).

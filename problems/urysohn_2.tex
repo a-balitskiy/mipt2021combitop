@@ -1,0 +1,109 @@
+\documentclass[12pt]{article}
+
+\pagestyle{empty}
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage[russian]{babel}
+\usepackage{cmap}
+\usepackage{amsthm}
+\usepackage{amsmath}
+\usepackage{amssymb}
+%\usepackage{units}
+%\usepackage{fancyhdr}
+%\usepackage{forloop}
+\usepackage[pdftex]{graphicx}
+\relpenalty=10000
+\binoppenalty=10000
+
+\renewcommand{\baselinestretch}{1.0}
+\renewcommand\normalsize{\sloppypar}
+
+\setlength{\topmargin}{-0.5in}
+\setlength{\textheight}{9.1in}
+\setlength{\oddsidemargin}{-0.4in}
+\setlength{\evensidemargin}{-0.4in}
+\setlength{\textwidth}{7in}
+\setlength{\parindent}{0ex}
+\setlength{\parskip}{1ex}
+
+\newtheorem{theorem}{Теорема}
+\newtheorem*{theorem*}{Теорема}
+\newtheorem{lemma}{Лемма}
+\newtheorem*{lemma*}{Лемма}
+\newtheorem{problem}{Задача}
+
+\newcommand{\HRule}{\rule{\linewidth}{0.5mm}}
+\newcommand{\divrus}{\mathop{\raisebox{-2pt}{\vdots}}}
+
+\renewcommand{\le}{\leqslant}
+\renewcommand{\ge}{\geqslant}
+
+\DeclareMathOperator{\gcdrus}{\text{НОД}}
+\DeclareMathOperator{\lcmrus}{\text{НОК}}
+\DeclareMathOperator{\maj}{maj}
+\DeclareMathOperator{\per}{per}
+\DeclareMathOperator{\UW}{UW}
+\DeclareMathOperator{\dist}{dist}
+\DeclareMathOperator{\diam}{diam}
+
+\def\ra{\rightarrow}
+\def\Ra{\Rightarrow}
+\def\ov{\overline}
+\def\CC{\mathbb{C}}
+\def\RR{\mathbb{R}}
+\def\NN{\mathbb{N}}
+\def\QQ{\mathbb{Q}}
+\def\ZZ{\mathbb{Z}}
+\def\eps{\varepsilon}
+
+\begin{document}
+
+{
+\HRule
+ \normalfont \Large \center
+   Листочек 2. Поперечник Урысона
+
+\HRule
+}
+Напомню, что $d$-мерный поперечник Урысона компактного метрического пространства $X$ может быть определён одним из следующих эквивалентных способов.
+
+\[
+\UW_d(X) = \inf\limits_{\substack{\bigcup U_i = X \\ \text{mult.} \{U_i\} \le d+1}} \sup\limits_{i} \diam(U_i),
+\]
+где инфимум берётся по открытым покрытиям кратности не более $d+1$.
+
+\[
+\UW_d(X) = \inf\limits_{\substack{p: X \to Z \\ \dim Z \le d}} \sup\limits_{z \in Z} \diam(p^{-1}(z)),
+\]
+где инфимум берётся по всем непрерывным отображениям $p$ в метризуемые пространства размерности не более $d$.
+
+Обозначения в задачах:
+\begin{itemize}
+  \item $B^n$ обозначает шар единичного радиуса в $\mathbb{R}^n$;
+  \item $\square^n$ обозначает куб с единичным ребром в $\mathbb{R}^n$;
+  \item $\triangle^n$ обозначает правильный $n$-мерный симплекс с единичным ребром в евклидовом пространстве.
+\end{itemize} 
+
+\begin{enumerate}
+\setcounter{enumi}{20}
+
+\item Пусть у непрерывного отображения $f: B^n \to \mathbb{R}^n$ образ имеет размерность меньше, чем $n$. Докажите, что $f$ сдвигает какую-то точку на расстояние не меньше 1.
+
+\item Пусть дано непрерывное отображение $f: B^n \to Z$ в метризуемое пространство размерности меньше, чем $n$. Докажите, что прообраз какой-то точки нельзя накрыть шаром радиуса меньше $1$.
+
+\item Вычислите $\UW_{n-1}(B^n)$.
+
+\item (Исследовательская задача) Чему равно $\UW_{n-2}(B^n)$?
+
+\item (Исследовательская задача) Лемма Лебега о покрытиях влечёт, что $\UW_{n-1}(\square^n) = 1$. Правда ли, что $\UW_{d}(\square^n) = \sqrt{n-d}$?
+    
+\item Используя лемму Кнастера--Куратовского--Мазуркевича, покажите, что $\UW_{n-1}(\triangle^n) = 1/n$. 
+
+\item (Исследовательская задача) Чему равны поперечники $\UW_{d}(\triangle^n)$?
+
+
+\end{enumerate}
+
+\end{document}
+
+

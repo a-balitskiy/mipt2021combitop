@@ -16,6 +16,10 @@ permalink: /recordings
 
 6. Свойства степени отображения --- [видео](https://mit.zoom.us/rec/share/eX2vymtTCTRrbBt9jtPEbiNR_L7rhOGCeaRkcWW3P1m5fPTKy9coZC5WFKT14bF5.3UtTMJ8DPrL4FAJF), [доска]({{site.baseurl}}/whiteboard/lec6.png).
 
-7. Теорема Шпильрайна.
+7. Компактные метрические пространства: размерность, нерв, поперечник --- [видео](https://mit.zoom.us/rec/share/bvo5Xg45uBQ863AhR1dhPsCuIH3shVpD5i-QBMR9UFfCJKjMaSe0JtSFLbG2ePKa.ELQ4eGA33Ur1hco-), [доска]({{site.baseurl}}/whiteboard/lec7.png).
 
-[comment]: # Поперечник множества
+8. Хаусдорфова размерность и её связь с топологической.
+
+9. Топологическая центральная точка.
+
+[comment]: # Селекционная лемма
