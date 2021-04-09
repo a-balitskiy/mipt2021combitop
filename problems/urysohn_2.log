@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.12)  2 APR 2021 17:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.11.12)  8 APR 2021 15:12
 entering extended mode
 **./urysohn_2.tex
 (urysohn_2.tex
@@ -509,9 +509,15 @@ File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 82.
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 []\T2A/cmr/m/n/12 Используя лем-му Кнастера--Куратовского--Мазуркевича, по-ка-ж
 и-те, что
+ []
+
+
+Underfull \hbox (badness 4673) in paragraph at lines 107--108
+[]\T2A/cmr/m/n/12 Лемма Ле-бе-га о по-кры-ти-ях вле-чјт, что $[][]\OT1/cmr/m/n/
+12 (\U/msa/m/n/12 []\OT1/cmr/m/n/12 ) = 1$\T2A/cmr/m/n/12 . Прав-да ли, что
  []
 
 [1
@@ -519,32 +525,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 100--101
 {C:/Users/mrmme/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (urysohn_2.aux) ) 
 Here is how much of TeX's memory you used:
- 4145 strings out of 492450
- 53012 string characters out of 3120004
+ 4148 strings out of 492450
+ 53051 string characters out of 3120004
  126413 words of memory out of 3000000
- 8408 multiletter control sequences out of 15000+200000
- 11498 words of font info for 36 fonts, out of 3000000 for 9000
+ 8409 multiletter control sequences out of 15000+200000
+ 12317 words of font info for 37 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,9n,32p,361b,144s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,9n,32p,361b,169s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\mrmme\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/l
-h-t2a/dpi600\larm0800.pk> <C:\Users\mrmme\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
-our/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\mrmme\AppData\Local\MiKTeX\2.9\font
-s/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk><C:/Users/mrmme/AppData/Local/Programs
-/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/mrmme/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/User
-s/mrmme/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.
-pfb><C:/Users/mrmme/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmmi8.pfb><C:/Users/mrmme/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><C:/Users/mrmme/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mrmme/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mrmme/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/mrmme
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/msam10.p
-fb><C:/Users/mrmme/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/symbols/msbm10.pfb>
-Output written on urysohn_2.pdf (1 page, 122020 bytes).
+h-t2a/dpi600\labx1200.pk> <C:\Users\mrmme\AppData\Local\MiKTeX\2.9\fonts/pk/ljf
+our/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\mrmme\AppData\Local\MiKTeX\2.9\font
+s/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk> <C:\Users\mrmme\AppData\Local\MiKTeX\
+2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1728.pk><C:/Users/mrmme/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cmextra/cmex8.pfb><C:/Users/mrm
+me/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+<C:/Users/mrmme/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi6.pfb><C:/Users/mrmme/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmmi8.pfb><C:/Users/mrmme/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/mrmme/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/mrmme/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/mrmme/App
+Data/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Use
+rs/mrmme/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbols/
+msam10.pfb><C:/Users/mrmme/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/symbols/msbm10.pfb>
+Output written on urysohn_2.pdf (1 page, 127270 bytes).
 PDF statistics:
- 143 PDF objects out of 1000 (max. 8388607)
+ 160 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
