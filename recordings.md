@@ -18,7 +18,7 @@ permalink: /recordings
 
 7. Компактные метрические пространства: размерность, нерв, поперечник --- [видео](https://mit.zoom.us/rec/share/bvo5Xg45uBQ863AhR1dhPsCuIH3shVpD5i-QBMR9UFfCJKjMaSe0JtSFLbG2ePKa.ELQ4eGA33Ur1hco-), [доска]({{site.baseurl}}/whiteboard/lec7.png).
 
-8. Хаусдорфова размерность и её связь с топологической.
+8. Хаусдорфова размерность и её связь с топологической --- [видео](https://mit.zoom.us/rec/share/TMT_W1i96BgYgRLNgKC7CkwtK6itZPXqzlWNIDUTNZ5YOeEGHlqzKNTWo2wTkcC4.6lI94WKdOCCQzVwl), [доска]({{site.baseurl}}/whiteboard/lec8.png).
 
 9. Топологическая центральная точка.
 
