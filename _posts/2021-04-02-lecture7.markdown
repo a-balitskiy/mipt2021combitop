@@ -92,12 +92,12 @@ _Доказательство._
 _Определение._ Для метрического компакта \\(X\\) его _\\(d\\)-мерным поперечником_ называется любая из следующих (равных) величин.
 
 \\[
-UW_d(X) = \inf\limits_{\substack{\bigcup U_i = X \\\ \text{mult.} \{U_i\} \le d+1}} \sup\limits_{i} \text{diam}(U_i),
+\text{UW}\_d(X) = \inf\limits_{\substack{\bigcup U_i = X \\\ \text{mult.} \{U_i\} \le d+1}} \sup\limits_{i} \text{diam}(U_i),
 \\]
 где инфимум берётся по открытым покрытиям кратности не более \\(d+1\\).
 
 \\[
-UW_d(X) = \inf\limits_{\substack{p: X \to Z \\\ \dim Z \le d}} \sup\limits_{z \in Z} \text{diam}(p^{-1}(z)),
+\text{UW}\_d(X) = \inf\limits_{\substack{p: X \to Z \\\ \dim Z \le d}} \sup\limits_{z \in Z} \text{diam}(p^{-1}(z)),
 \\]
 где инфимум берётся по всем непрерывным отображениям \\(p\\) в метризуемые[^4] пространства размерности не более \\(d\\).
 

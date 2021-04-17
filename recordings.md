@@ -20,6 +20,6 @@ permalink: /recordings
 
 8. Хаусдорфова размерность и её связь с топологической --- [видео](https://mit.zoom.us/rec/share/TMT_W1i96BgYgRLNgKC7CkwtK6itZPXqzlWNIDUTNZ5YOeEGHlqzKNTWo2wTkcC4.6lI94WKdOCCQzVwl), [доска]({{site.baseurl}}/whiteboard/lec8.png).
 
-9. Топологическая центральная точка.
+9. Топологическая центральная точка --- [видео](https://mit.zoom.us/rec/share/CR5rT8sBUc8_RLfwYBUiLuhEqOXdiab5AtOB0tGZl-f--j8_ifDDwv3-OpAxsGkm.A7x3gswMh5sKXrYD), [доска]({{site.baseurl}}/whiteboard/lec9.png).
 
 [comment]: # Селекционная лемма
