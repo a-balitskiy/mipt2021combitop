@@ -22,4 +22,6 @@ permalink: /recordings
 
 9. Топологическая центральная точка --- [видео](https://mit.zoom.us/rec/share/CR5rT8sBUc8_RLfwYBUiLuhEqOXdiab5AtOB0tGZl-f--j8_ifDDwv3-OpAxsGkm.A7x3gswMh5sKXrYD), [доска]({{site.baseurl}}/whiteboard/lec9.png).
 
+10. Селекционная лемма Бараня --- [видео](https://mit.zoom.us/rec/share/WGdVXcCrFnNEVtJLPpTv4SsaA7WcYIkBopts3ph0P6Oy19khNMljHpc8ly2w-4qk.KS_-VZpzlORZw4HK), [доска]({{site.baseurl}}/whiteboard/lec10.png).
+
 [comment]: # Селекционная лемма
