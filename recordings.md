@@ -24,4 +24,9 @@ permalink: /recordings
 
 10. Селекционная лемма Бараня --- [видео](https://mit.zoom.us/rec/share/WGdVXcCrFnNEVtJLPpTv4SsaA7WcYIkBopts3ph0P6Oy19khNMljHpc8ly2w-4qk.KS_-VZpzlORZw4HK), [доска]({{site.baseurl}}/whiteboard/lec10.png).
 
-[comment]: # Селекционная лемма
+11. Симплициальные комплексы, их когомологии, и кограничное расширение --- [видео](https://mit.zoom.us/rec/share/s6YpeQvS1TqKZqpEsYDQUXHQ5MkmYT_aG_K-UBfS0SqJp6fpQoUCl2zW4xavvEkR.-DnbUl-6YCbVzaEA), [доска]({{site.baseurl}}/whiteboard/lec11.png).
+
+12. Экспандерные свойства полного комплекса, симплициальное приближение, цепные гомотопии.
+
+13. Теорема Громова о топологическом перекрывании.
+
