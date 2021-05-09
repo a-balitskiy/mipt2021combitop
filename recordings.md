@@ -26,7 +26,7 @@ permalink: /recordings
 
 11. Симплициальные комплексы, их когомологии, и кограничное расширение --- [видео](https://mit.zoom.us/rec/share/s6YpeQvS1TqKZqpEsYDQUXHQ5MkmYT_aG_K-UBfS0SqJp6fpQoUCl2zW4xavvEkR.-DnbUl-6YCbVzaEA), [доска]({{site.baseurl}}/whiteboard/lec11.png).
 
-12. Экспандерные свойства полного комплекса, симплициальное приближение, цепные гомотопии.
+12. Комплексы-экспандеры --- [видео](https://mit.zoom.us/rec/share/Nb98oS0RVeL18lg8jiQZs6vMTxlO6xUckDo3MjcLnSw1dp3q0sbRn5eBCaYvuDW2.GDRb_qS-U763CuXv), [доска]({{site.baseurl}}/whiteboard/lec12.png).
 
 13. Теорема Громова о топологическом перекрывании.
 
