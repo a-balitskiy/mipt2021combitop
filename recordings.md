@@ -28,5 +28,4 @@ permalink: /recordings
 
 12. Комплексы-экспандеры --- [видео](https://mit.zoom.us/rec/share/Nb98oS0RVeL18lg8jiQZs6vMTxlO6xUckDo3MjcLnSw1dp3q0sbRn5eBCaYvuDW2.GDRb_qS-U763CuXv), [доска]({{site.baseurl}}/whiteboard/lec12.png).
 
-13. Теорема Громова о топологическом перекрывании.
-
+13. Теорема Громова о топологическом перекрывании --- [видео](https://mit.zoom.us/rec/share/JAA6qvVr9dH2X8hbbKrWBOe6TtI6aVzwYKVjnvYuk4IX4ECvCqDXVNoEJJaLwz8K.GmJfejEAqoMe1HIk), [доска]({{site.baseurl}}/whiteboard/lec13.png).

@@ -1,0 +1,49 @@
+I"+<p>Остаток курса — пересказ пары статей (см. ссылки ниже), доказывающих такие теоремы топологической комбинаторики. Я поленился оформлять подробные записки.</p>
+
+<blockquote>
+  <p><strong>Селекционная лемма.</strong></p>
+  <ol>
+    <li><strong>[Bárány, 1982]</strong> Существует размерностная константа \(p_d &gt; 0\), удовлетворяющая следующему свойству. Для любой абсолютно непрерывной вероятностной меры \(\mu\) в \(\mathbb{R}^d\) найдётся точка \(c \in \mathbb{R}^d\), такая что случайный \(d\)-симплекс (выпуклая оболочка \(d+1\) точек, независимо семплированных из распределения \(\mu\)) содержит \(c\) с вероятностью не менее \(p_d\).</li>
+    <li><strong>[Gromov, 2010]</strong> Вероятность \(p_d\) может быть взята равной \(\frac{1}{(d+1)!}\).</li>
+  </ol>
+</blockquote>
+
+<p>Пусть \(X\) — симплициальный комплекс, \(\Sigma_k(X)\) — множество его \(k\)-симплексов, \(\delta\) — оператор кограницы, а \(C^k(X), Z^k(X), B^k(X)\) — группы коцепей, коциклов, кограниц в размерности ((k\) с коэффициентами в \(\mathbb{Z}/2\). Соглашение: \(\Sigma_{-1}(X)\) состоит из одного (пустого) симплекса, и \(\delta: C^0(X) \to C^{-1}(X)\) и \(B^0(X)\) определены с учётом этого. Норму коцепи \(\alpha \in C^k(X)\) определим как 
+\[
+\lVert \alpha\rVert = \frac{\#\{\sigma \in \Sigma_k(X) ~\vert~ \alpha(\sigma) \neq 0\}}{\# \Sigma_k(X)}.
+\]
+Комплекс \(X\) может удовлетворять или не удовлетворять следующим свойствам.</p>
+
+<ul>
+  <li>
+    <p><em>Кограничное расширение</em> в размерности \(k\) с параметром \(\eta\): \(\forall\alpha \in C^{k-1}(X)\) выполнено \(\lVert\delta \alpha\rVert \ge \eta \min\limits_{\beta \in B^{k-1}(X)} \lVert\delta \alpha + \beta\rVert \).</p>
+  </li>
+  <li>
+    <p><em>Коизопериметрия</em> в размерности \(k\) с параметром \(L\): \(\forall\beta \in B^{k}(X)\) \(\exists \alpha \in C^{k-1}(X)\), так что \(\delta \alpha = \beta\) и \(\lVert \alpha\rVert \le L \lVert \beta\rVert\).</p>
+  </li>
+  <li>
+    <p><em>Большие косистолы</em> в размерности \(k\) с параметром \(\nu\): \(\forall\alpha \in Z^{k}(X) \setminus B^k(X)\) выполнено \(\lVert \alpha\rVert \ge \nu\).</p>
+  </li>
+  <li>
+    <p><em>Локальная разреженность</em> с параметром \(\epsilon\): для любого симплекса \(tau\) и любого \(0 \le k \le \dim X\) выполнено \(\frac{\#\{\sigma \in \Sigma_k(X) ~\vert~ \tau \cap \sigma \neq \varnothing \}}{\# \Sigma_k(X)} \le \epsilon\).</p>
+  </li>
+  <li>
+    <p><em>Топологическое перекрывание</em> в размерности \(d\) с параметром \(\mu\): для любого непрерывного отображения \(f : X \to \mathbb{R}^d\) найдётся точка \(p \in \mathbb{R}^d\), такая что \(\frac{\#\{\sigma \in \Sigma_d(X) ~\vert~ p \in f(\sigma) \}}{\# \Sigma_k(X)} \ge \mu\).</p>
+  </li>
+</ul>
+
+<blockquote>
+  <p><strong>Теорема о топологическом перекрывании.</strong></p>
+  <ol>
+    <li><strong>[Gromov, 2010]</strong> \(\forall d, \eta\) \(\exists \epsilon, \mu\) такие, что любой симплициальный комплекс \(X\) размерности \(d\), обладающий кограничным расширением в размерностях \(1,\ldots, d\) с параметром \(\eta\) и локальной разреженностью с параметром \(\epsilon\), автоматически удовлетворяет топологическому перекрыванию в размерности \(d\) с параметром \(\mu\).</li>
+    <li><strong>[Dotterrer–Kaufman–Wagner, 2018]</strong> \(\forall d, L, \nu\) \(\exists \epsilon, \mu\) такие, что любой симплициальный комплекс \(X\) размерности \(d\), обладающий коизопериметрией в размерностях \(1,\ldots, d\) с параметром \(L\), большими косистолами в размерностях \(0,\ldots, d-1\) с параметром \(\nu\) и локальной разреженностью с параметром \(\epsilon\), автоматически удовлетворяет топологическому перекрыванию в размерности \(d\) с параметром \(\mu\).</li>
+  </ol>
+</blockquote>
+
+<h3 id="ссылки">—Ссылки—</h3>
+<ul>
+  <li>R. Karasev, <a href="https://link.springer.com/article/10.1007/s00454-011-9332-1">A simpler proof of the Boros–Füredi–Bárány–Pach–Gromov theorem</a>. <em>Discrete &amp; Computational Geometry</em> (2012).</li>
+  <li>D. Dotterrer, T. Kaufman, U. Wagner, <a href="https://link.springer.com/article/10.1007/s10711-017-0291-4">On expansion and topological overlap</a>. <em>Geometriae Dedicata</em> (2018).</li>
+</ul>
+
+:ET
